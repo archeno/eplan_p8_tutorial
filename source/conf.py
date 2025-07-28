@@ -28,7 +28,7 @@ latex_engine = 'xelatex'
 latex_elements = {
     'pointsize': '12pt',
     'preamble': r'''
-    \usepackage{ctex}
+    \usepackage{XeCJK}
     \usepackage{graphicx}
     \usepackage{hyperref}
     \usepackage{pdfpages}
