@@ -8,13 +8,10 @@ Welcome to eplan_p8_tutorial's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+   
+   结构标识的认识
 
 
+   .. 本书参考了 `EPLAN P8 教程 <static/doc/EPLAN电气设计实例入门.pdf>`_ ,进行的笔记整理
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
