@@ -34,9 +34,9 @@ latex_elements = {
     \usepackage{pdfpages}
     \usepackage{geometry}
     \geometry{a4paper, margin=1in}
-    \setCJKmainfont{SimSun}  % 设置中文字体（如宋体）
-    \setCJKsansfont{SimHei}           % 无衬线字体
-    \setCJKmonofont{FangSong}         % 等宽字体
+    \setCJKmainfont{Noto CJK SC}  % 设置中文字体（如宋体）
+    \setCJKsansfont{Noto Sans CJK SC}           % 无衬线字体
+    \setCJKmonofont{Noto Sans Mono CJK SC}         % 等宽字体
     \renewcommand{\maketitle}{%
     \begin{titlepage}
         \centering

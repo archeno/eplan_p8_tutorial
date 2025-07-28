@@ -1,7 +1,7 @@
 结构标识的组成
 =================
 
-本书参考了 `EPLAN P8 教程 <_static/doc/EPLAN电气设计实例入门.pdf>`_ ,进行的笔记整理
+本书参考了 :download:`EPLAN P8 教程 <_static/doc/eplan_design_prime.pdf>`,进行的笔记整理
 
 实例教学
 ================
