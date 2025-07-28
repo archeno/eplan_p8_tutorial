@@ -13,5 +13,5 @@ Welcome to eplan_p8_tutorial's documentation!
    结构标识的认识
 
 
-   .. 本书参考了 `EPLAN P8 教程 <static/doc/EPLAN电气设计实例入门.pdf>`_ ,进行的笔记整理
+.. 本书参考了 `EPLAN P8 教程 <static/doc/EPLAN电气设计实例入门.pdf>`_ ,进行的笔记整理
 
